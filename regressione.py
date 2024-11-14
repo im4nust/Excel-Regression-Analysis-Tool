@@ -1,3 +1,4 @@
+#regressione multipla da e per Excel.
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import pandas as pd
